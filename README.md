@@ -16,7 +16,30 @@ Wireless network adapter    淘宝9.9
 ```
 
 ### Working
-> Backlight Controller
+> 桌面
+
+ ![](https://github.com/Yasin27878/Hackintosh-ASUS-W419LD/blob/master/screenshot/2019-07-15%2021.18.56.png)
+ 
+> 概览
+
+![](https://github.com/Yasin27878/Hackintosh-ASUS-W419LD/blob/master/screenshot/2019-07-15%2021.16.54.png)
+
+> 触摸板
+
+![](https://github.com/Yasin27878/Hackintosh-ASUS-W419LD/blob/master/screenshot/2019-07-15%2021.20.13.png) 
+
+> 声音
+
+![](https://github.com/Yasin27878/Hackintosh-ASUS-W419LD/blob/master/screenshot/2019-07-15%2021.20.39.png)
+
+> 显示器及亮度
+
+![](https://github.com/Yasin27878/Hackintosh-ASUS-W419LD/blob/master/screenshot/2019-07-15%2021.25.30.png)
+
+> 电池和休眠 (电池显示不正常 休眠正常)
+
+![](https://github.com/Yasin27878/Hackintosh-ASUS-W419LD/blob/master/screenshot/2019-07-15%2021.26.05.png) 
+
 
 ### Credits
 - [syscl](https://github.com/syscl)
@@ -25,7 +48,7 @@ Wireless network adapter    淘宝9.9
 - [chunnann](https://github.com/chunnann)
 - [vit9696](https://github.com/vit9696)
 - [lvs1974](https://github.com/lvs1974)
-- so on ...
+- [ASUS-F455LD-i5-4210u](https://github.com/athlonreg/Asus-F455LD-i5-4210u)
 
 
 
