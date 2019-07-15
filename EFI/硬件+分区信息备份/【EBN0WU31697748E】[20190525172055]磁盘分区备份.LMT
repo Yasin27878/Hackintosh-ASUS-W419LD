@@ -1,0 +1,866 @@
+[磁盘0]
+所有分区=1   2   3
+分区数=3
+主分区=3
+逻辑分区数=0
+磁盘号=0
+大小=500107862016
+柱面数=60801
+磁头数=255
+扇数=63
+扇区=512
+媒体=12
+签名=9B6FF210-2EC5-4BFB-9803-61F2728577EA
+总线=11
+分区表=GPT
+移动固定=F
+活动分区=0
+Win分区=0
+
+
+[分区1]
+分区=1
+类型=C12A7328-F81F-11D2-BA4B-00A0C93EC93B
+活动=GPT
+起始=20480
+长度=209715200
+隐藏扇区=0000000000000000
+结尾=D213F56A-F232-4C2F-B642-7D2BE119FAD1
+物理号=1
+盘符=C:
+卷标=EFI
+文件系统=FAT32
+
+
+
+[分区2]
+分区=2
+类型=7C3457EF-0000-11AA-AA11-00306543ECAC
+活动=GPT
+起始=210763776
+长度=250015133696
+隐藏扇区=0000000000000000
+结尾=806F05F1-F946-4122-8BA3-44C628D407B3
+物理号=2
+盘符=E:
+卷标=
+文件系统=
+
+
+
+[分区3]
+分区=3
+类型=7C3457EF-0000-11AA-AA11-00306543ECAC
+活动=GPT
+起始=250225897472
+长度=249881944064
+隐藏扇区=0000000000000000
+结尾=B7B64673-EE49-4972-8F3B-3201D0DF1C46
+物理号=3
+盘符=F:
+卷标=
+文件系统=
+
+
+
+[关于本机]
+此电脑制造商=ASUSTeK COMPUTER INC.
+此电脑序列号=EBN0WU31697748E     
+电脑型号信息=X455LD
+BIOS发布时间=06/11/2014
+BIOS版本信息=X455LD.202
+此电脑处理器=Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+
+[Drivers]
+ID=
+ID60=
+ID61=
+Num=455
+Family=XLD
+YesNum=
+NumMac=X455LD
+Num+=
+HD4000=
+Win7=
+SRS=
+
+[LMTGHOST]
+SRS=
+NVMEFix=
+USB3=
+NET=
+
+版本:20180816-By LMT:2019年5月25日，17时20分49秒。
+老毛桃U盘启动QQ群:【417082612】苹果驱动整合包QQ群:【556106605】
+本支持信息由电脑店【u.diannaodian.com】提供技术支持。
+BOOTCAMP驱动整合包下载：http://u.diannaodian.com/apple
+
+ACPI\PNP0200\4&250456FA&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0200
+        ACPI\PNP0200
+        *PNP0200
+STORAGE\VOLUME\{50C51651-7ECE-11E9-9C55-806E6F6E6963}#0000003A42A03000
+    Name:     Hardware IDs:
+        STORAGE\Volume
+ACPI\PNP0C01\1
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C01
+        ACPI\PNP0C01
+        *PNP0C01
+ACPI\PNP0C02\1
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+ACPI\PNP0C02\2
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+ACPI\PNP0C02\4
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+ACPI\PNP0C02\9
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+ACPI\PNP0C14\OPT1
+    Name: Microsoft Windows Management Interface for ACPI
+    Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C14
+        ACPI\PNP0C14
+        *PNP0C14
+ACPI\PNP0C0A\0
+    Name: Microsoft ACPI     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C0A
+        ACPI\PNP0C0A
+        *PNP0C0A
+USB\ROOT_HUB30\4&39D8E44E&0&0
+    Name: USB     Hardware IDs:
+        USB\ROOT_HUB30&VID8086&PID9C31&REV0004
+        USB\ROOT_HUB30&VID8086&PID9C31
+        USB\ROOT_HUB30
+ROOT\VOLMGR\0000
+    Name:     Hardware IDs:
+        ROOT\VOLMGR
+    Compatible IDs:
+        DETECTEDInternal\volmgr
+        DETECTED\volmgr
+ACPI\INT3400\2&DABA3FF&0
+    Hardware IDs:
+        ACPI\VEN_INT&DEV_3400
+        ACPI\INT3400
+        *INT3400
+STORAGE\VOLUME\_??_USBSTOR#DISK&VEN_SAMSUNG&PROD_FLASH_DRIVE&REV_1100#0340916040022467&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+    Name:     Hardware IDs:
+        STORAGE\Volume
+ACPI\FLT0102\4&250456FA&0
+    Name: Microsoft PS/2     Hardware IDs:
+        ACPI\VEN_FLT&DEV_0102
+        ACPI\FLT0102
+        *FLT0102
+    Compatible IDs:
+        *SYN0A00
+        *SYN0002
+        *PNP0F03
+        *PNP0F13
+        *PNP0F12
+ROOT\BASICDISPLAY\0000
+    Name: Microsoft     Hardware IDs:
+        ROOT\BasicDisplay
+ACPI\THERMALZONE\THRM
+    Name: ACPI     Hardware IDs:
+        ACPI\ThermalZone
+        *ThermalZone
+ACPI\PNP0C0E\2&DABA3FF&0
+    Name: ACPI     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C0E
+        ACPI\PNP0C0E
+        *PNP0C0E
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_69_-_INTEL(R)_CORE(TM)_I5-4210U_CPU_@_1.70GHZ\_1
+    Name: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+    Hardware IDs:
+        ACPI\GenuineIntel_-_Intel64_Family_6_Model_69
+        *GenuineIntel_-_Intel64_Family_6_Model_69
+        ACPI\GenuineIntel_-_Intel64_Family_6
+        *GenuineIntel_-_Intel64_Family_6
+        ACPI\GenuineIntel_-_Intel64
+        *GenuineIntel_-_Intel64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_69_-_INTEL(R)_CORE(TM)_I5-4210U_CPU_@_1.70GHZ\_2
+    Name: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+    Hardware IDs:
+        ACPI\GenuineIntel_-_Intel64_Family_6_Model_69
+        *GenuineIntel_-_Intel64_Family_6_Model_69
+        ACPI\GenuineIntel_-_Intel64_Family_6
+        *GenuineIntel_-_Intel64_Family_6
+        ACPI\GenuineIntel_-_Intel64
+        *GenuineIntel_-_Intel64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_69_-_INTEL(R)_CORE(TM)_I5-4210U_CPU_@_1.70GHZ\_3
+    Name: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+    Hardware IDs:
+        ACPI\GenuineIntel_-_Intel64_Family_6_Model_69
+        *GenuineIntel_-_Intel64_Family_6_Model_69
+        ACPI\GenuineIntel_-_Intel64_Family_6
+        *GenuineIntel_-_Intel64_Family_6
+        ACPI\GenuineIntel_-_Intel64
+        *GenuineIntel_-_Intel64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_69_-_INTEL(R)_CORE(TM)_I5-4210U_CPU_@_1.70GHZ\_4
+    Name: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+    Hardware IDs:
+        ACPI\GenuineIntel_-_Intel64_Family_6_Model_69
+        *GenuineIntel_-_Intel64_Family_6_Model_69
+        ACPI\GenuineIntel_-_Intel64_Family_6
+        *GenuineIntel_-_Intel64_Family_6
+        ACPI\GenuineIntel_-_Intel64
+        *GenuineIntel_-_Intel64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\INT3393\2&DABA3FF&0
+    Name:     Hardware IDs:
+        ACPI\VEN_INT&DEV_3393
+        ACPI\INT3393
+        *INT3393
+    Compatible IDs:
+        *PNP0C02
+PCI\VEN_8086&DEV_9C14&SUBSYS_170D1043&REV_E4\3&11583659&0&E2
+    Name: PCI Express     Hardware IDs:
+        PCI\VEN_8086&DEV_9C14&SUBSYS_170D1043&REV_E4
+        PCI\VEN_8086&DEV_9C14&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C14&CC_060400
+        PCI\VEN_8086&DEV_9C14&CC_0604
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C14&REV_E4
+        PCI\VEN_8086&DEV_9C14
+        PCI\VEN_8086&CC_060400
+        PCI\VEN_8086&CC_0604
+        PCI\VEN_8086
+        PCI\CC_060400&DT_4
+        PCI\CC_060400
+        PCI\CC_0604&DT_4
+        PCI\CC_0604
+ACPI\PNP0103\0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0103
+        ACPI\PNP0103
+        *PNP0103
+ROOT\VDRVROOT\0000
+    Name: Microsoft     Hardware IDs:
+        ROOT\vdrvroot
+PCI\VEN_8086&DEV_9C43&SUBSYS_170D1043&REV_04\3&11583659&0&F8
+    Name: PCI     Hardware IDs:
+        PCI\VEN_8086&DEV_9C43&SUBSYS_170D1043&REV_04
+        PCI\VEN_8086&DEV_9C43&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C43&CC_060100
+        PCI\VEN_8086&DEV_9C43&CC_0601
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C43&REV_04
+        PCI\VEN_8086&DEV_9C43
+        PCI\VEN_8086&CC_060100
+        PCI\VEN_8086&CC_0601
+        PCI\VEN_8086
+        PCI\CC_060100
+        PCI\CC_0601
+ROOT\SPACEPORT\0000
+    Name: Microsoft     Hardware IDs:
+        Root\Spaceport
+    Compatible IDs:
+        DETECTEDInternal\spaceport
+        DETECTED\spaceport
+ROOT\KDNIC\0000
+    Name: Microsoft Kernel Debug Network Adapter
+    Hardware IDs:
+        root\kdnic
+ACPI\INT0800\4&250456FA&0
+    Name:     Hardware IDs:
+        ACPI\VEN_INT&DEV_0800
+        ACPI\INT0800
+        *INT0800
+ACPI\ACPI0003\3&11583659&0
+    Name: Microsoft AC     Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0003
+        ACPI\ACPI0003
+        *ACPI0003
+PCI\VEN_8086&DEV_9C26&SUBSYS_170D1043&REV_04\3&11583659&0&E8
+    Name: Intel(R) 8 Series USB Enhanced Host Controller #1 - 9C26
+    Hardware IDs:
+        PCI\VEN_8086&DEV_9C26&SUBSYS_170D1043&REV_04
+        PCI\VEN_8086&DEV_9C26&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C26&CC_0C0320
+        PCI\VEN_8086&DEV_9C26&CC_0C03
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C26&REV_04
+        PCI\VEN_8086&DEV_9C26
+        PCI\VEN_8086&CC_0C0320
+        PCI\VEN_8086&CC_0C03
+        PCI\VEN_8086
+        PCI\CC_0C0320
+        PCI\CC_0C03
+STORAGE\VOLUME\{50C51651-7ECE-11E9-9C55-806E6F6E6963}#000000000C900000
+    Name:     Hardware IDs:
+        STORAGE\Volume
+ACPI\PNP0C0D\2&DABA3FF&0
+    Name: ACPI     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C0D
+        ACPI\PNP0C0D
+        *PNP0C0D
+ROOT\RAMDISK\0000
+    Compatible IDs:
+        DETECTEDInternal\Ramdisk
+        DETECTED\Ramdisk
+PCI\VEN_168C&DEV_0036&SUBSYS_066211AD&REV_01\4&32DA8089&0&00E3
+    Name:     Hardware IDs:
+        PCI\VEN_168C&DEV_0036&SUBSYS_066211AD&REV_01
+        PCI\VEN_168C&DEV_0036&SUBSYS_066211AD
+        PCI\VEN_168C&DEV_0036&CC_028000
+        PCI\VEN_168C&DEV_0036&CC_0280
+    Compatible IDs:
+        PCI\VEN_168C&DEV_0036&REV_01
+        PCI\VEN_168C&DEV_0036
+        PCI\VEN_168C&CC_028000
+        PCI\VEN_168C&CC_0280
+        PCI\VEN_168C
+        PCI\CC_028000&DT_0
+        PCI\CC_028000
+        PCI\CC_0280&DT_0
+        PCI\CC_0280
+RAMDISK\RAMVOLUME\{D9B257FC-684E-4DCB-AB79-03CFA2F6B750}
+    Name: RamDisk
+    Hardware IDs:
+        Ramdisk\RamVolume
+ACPI\PNP0C09\4&250456FA&0
+    Name: Microsoft ACPI     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C09
+        ACPI\PNP0C09
+        *PNP0C09
+ROOT\UMBUS\0000
+    Name: UMBus Root Bus Enumerator
+    Hardware IDs:
+        root\umbus
+PCI\VEN_10DE&DEV_1140&SUBSYS_170D1043&REV_A1\4&6D716E2&0&00E4
+    Name: 3D     Hardware IDs:
+        PCI\VEN_10DE&DEV_1140&SUBSYS_170D1043&REV_A1
+        PCI\VEN_10DE&DEV_1140&SUBSYS_170D1043
+        PCI\VEN_10DE&DEV_1140&CC_030200
+        PCI\VEN_10DE&DEV_1140&CC_0302
+    Compatible IDs:
+        PCI\VEN_10DE&DEV_1140&REV_A1
+        PCI\VEN_10DE&DEV_1140
+        PCI\VEN_10DE&CC_030200
+        PCI\VEN_10DE&CC_0302
+        PCI\VEN_10DE
+        PCI\CC_030200&DT_0
+        PCI\CC_030200
+        PCI\CC_0302&DT_0
+        PCI\CC_0302
+PCI\VEN_8086&DEV_0A03&SUBSYS_20108086&REV_0B\3&11583659&0&20
+    Name: PCI     Hardware IDs:
+        PCI\VEN_8086&DEV_0A03&SUBSYS_20108086&REV_0B
+        PCI\VEN_8086&DEV_0A03&SUBSYS_20108086
+        PCI\VEN_8086&DEV_0A03&CC_118000
+        PCI\VEN_8086&DEV_0A03&CC_1180
+    Compatible IDs:
+        PCI\VEN_8086&DEV_0A03&REV_0B
+        PCI\VEN_8086&DEV_0A03
+        PCI\VEN_8086&CC_118000
+        PCI\VEN_8086&CC_1180
+        PCI\VEN_8086
+        PCI\CC_118000
+        PCI\CC_1180
+ACPI\PNP0100\4&250456FA&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0100
+        ACPI\PNP0100
+        *PNP0100
+PCI\VEN_8086&DEV_0A16&SUBSYS_170D1043&REV_0B\3&11583659&0&10
+    Name:     Hardware IDs:
+        PCI\VEN_8086&DEV_0A16&SUBSYS_170D1043&REV_0B
+        PCI\VEN_8086&DEV_0A16&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_0A16&CC_030000
+        PCI\VEN_8086&DEV_0A16&CC_0300
+    Compatible IDs:
+        PCI\VEN_8086&DEV_0A16&REV_0B
+        PCI\VEN_8086&DEV_0A16
+        PCI\VEN_8086&CC_030000
+        PCI\VEN_8086&CC_0300
+        PCI\VEN_8086
+        PCI\CC_030000
+        PCI\CC_0300
+USB\VID_0BDA&PID_57B5\200901010001
+    Name: USB Composite Device
+    Hardware IDs:
+        USB\VID_0BDA&PID_57B5&REV_0012
+        USB\VID_0BDA&PID_57B5
+    Compatible IDs:
+        USB\DevClass_00&SubClass_00&Prot_00
+        USB\DevClass_00&SubClass_00
+        USB\DevClass_00
+        USB\COMPOSITE
+ROOT\ACPI_HAL\0000
+    Name:     Hardware IDs:
+        acpiapic
+    Compatible IDs:
+        DETECTEDInternal\ACPI_HAL
+        DETECTED\ACPI_HAL
+ACPI\ATK4002\2&DABA3FF&0
+    Hardware IDs:
+        ACPI\VEN_ATK&DEV_4002
+        ACPI\ATK4002
+        *ATK4002
+PCI\VEN_8086&DEV_9C16&SUBSYS_170D1043&REV_E4\3&11583659&0&E3
+    Name: PCI Express     Hardware IDs:
+        PCI\VEN_8086&DEV_9C16&SUBSYS_170D1043&REV_E4
+        PCI\VEN_8086&DEV_9C16&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C16&CC_060400
+        PCI\VEN_8086&DEV_9C16&CC_0604
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C16&REV_E4
+        PCI\VEN_8086&DEV_9C16
+        PCI\VEN_8086&CC_060400
+        PCI\VEN_8086&CC_0604
+        PCI\VEN_8086
+        PCI\CC_060400&DT_4
+        PCI\CC_060400
+        PCI\CC_0604&DT_4
+        PCI\CC_0604
+ACPI\PNP0C14\ATK
+    Name: Microsoft Windows Management Interface for ACPI
+    Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C14
+        ACPI\PNP0C14
+        *PNP0C14
+ACPI\PNP0A08\0
+    Name: PCI Express     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0A08
+        ACPI\PNP0A08
+        *PNP0A08
+    Compatible IDs:
+        *PNP0A03
+ACPI\ATK3001\4&250456FA&0
+    Name: PC/AT     Hardware IDs:
+        ACPI\VEN_ATK&DEV_3001
+        ACPI\ATK3001
+        *ATK3001
+    Compatible IDs:
+        *PNP030B
+PCI\VEN_8086&DEV_0A0C&SUBSYS_20108086&REV_0B\3&11583659&0&18
+    Name: High Definition Audio     Hardware IDs:
+        PCI\VEN_8086&DEV_0A0C&SUBSYS_20108086&REV_0B
+        PCI\VEN_8086&DEV_0A0C&SUBSYS_20108086
+        PCI\VEN_8086&DEV_0A0C&CC_040300
+        PCI\VEN_8086&DEV_0A0C&CC_0403
+    Compatible IDs:
+        PCI\VEN_8086&DEV_0A0C&REV_0B
+        PCI\VEN_8086&DEV_0A0C
+        PCI\VEN_8086&CC_040300
+        PCI\VEN_8086&CC_0403
+        PCI\VEN_8086
+        PCI\CC_040300&DT_9
+        PCI\CC_040300
+        PCI\CC_0403&DT_9
+        PCI\CC_0403
+USB\VID_04CA&PID_3010\5&E56D63E&0&6
+    Hardware IDs:
+        USB\VID_04CA&PID_3010&REV_0001
+        USB\VID_04CA&PID_3010
+    Compatible IDs:
+        USB\Class_E0&SubClass_01&Prot_01
+        USB\Class_E0&SubClass_01
+        USB\Class_E0
+ACPI_HAL\PNP0C08\0
+    Name: Microsoft ACPI-Compliant System
+    Hardware IDs:
+        ACPI_HAL\PNP0C08
+        *PNP0C08
+HTREE\ROOT\0
+    No hardware/compatible IDs found for this device.
+ROOT\BASICRENDER\0000
+    Name: Microsoft     Hardware IDs:
+        ROOT\BasicRender
+PCI\VEN_8086&DEV_9C20&SUBSYS_170D1043&REV_04\3&11583659&0&D8
+    Name: High Definition Audio     Hardware IDs:
+        PCI\VEN_8086&DEV_9C20&SUBSYS_170D1043&REV_04
+        PCI\VEN_8086&DEV_9C20&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C20&CC_040300
+        PCI\VEN_8086&DEV_9C20&CC_0403
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C20&REV_04
+        PCI\VEN_8086&DEV_9C20
+        PCI\VEN_8086&CC_040300
+        PCI\VEN_8086&CC_0403
+        PCI\VEN_8086
+        PCI\CC_040300&DT_9
+        PCI\CC_040300
+        PCI\CC_0403&DT_9
+        PCI\CC_0403
+SCSI\CDROM&VEN_HL-DT-ST&PROD_DVDRAM_GUC0N\4&382C6A5&0&010000
+    Name: HL-DT-ST DVDRAM GUC0N
+    Hardware IDs:
+        SCSI\CdRomHL-DT-STDVDRAM_GUC0N____AS01
+        SCSI\CdRomHL-DT-STDVDRAM_GUC0N____
+        SCSI\CdRomHL-DT-ST
+        SCSI\HL-DT-STDVDRAM_GUC0N____A
+        HL-DT-STDVDRAM_GUC0N____A
+        GenCdRom
+    Compatible IDs:
+        SCSI\CdRom
+        SCSI\RAW
+STORAGE\VOLUME\{50C51651-7ECE-11E9-9C55-806E6F6E6963}#0000000000005000
+    Name:     Hardware IDs:
+        STORAGE\Volume
+PCI\VEN_8086&DEV_9C31&SUBSYS_170D1043&REV_04\3&11583659&0&A0
+    Name: Intel(R) USB 3.0     Hardware IDs:
+        PCI\VEN_8086&DEV_9C31&SUBSYS_170D1043&REV_04
+        PCI\VEN_8086&DEV_9C31&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C31&CC_0C0330
+        PCI\VEN_8086&DEV_9C31&CC_0C03
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C31&REV_04
+        PCI\VEN_8086&DEV_9C31
+        PCI\VEN_8086&CC_0C0330
+        PCI\VEN_8086&CC_0C03
+        PCI\VEN_8086
+        PCI\CC_0C0330
+        PCI\CC_0C03
+PCI\VEN_8086&DEV_9C03&SUBSYS_170D1043&REV_04\3&11583659&0&FA
+    Name:     Hardware IDs:
+        PCI\VEN_8086&DEV_9C03&SUBSYS_170D1043&REV_04
+        PCI\VEN_8086&DEV_9C03&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C03&CC_010601
+        PCI\VEN_8086&DEV_9C03&CC_0106
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C03&REV_04
+        PCI\VEN_8086&DEV_9C03
+        PCI\VEN_8086&CC_010601
+        PCI\VEN_8086&CC_0106
+        PCI\VEN_8086
+        PCI\CC_010601
+        PCI\CC_0106
+ACPI\FIXEDBUTTON\2&DABA3FF&0
+    Name: ACPI     Hardware IDs:
+        ACPI\FixedButton
+        *FixedButton
+DISPLAY\CMN1491\1&8713BCA&0&UID0
+    Name: Generic Monitor
+    Hardware IDs:
+        MONITOR\CMN1491
+    Compatible IDs:
+        *PNP09FF
+ACPI\PNP0C02\10
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+ACPI\PNP0C02\13
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+USB\VID_0BDA&PID_57B5&MI_00\6&4D9B0B7&0&0000
+    Name: USB Camera
+    Hardware IDs:
+        USB\VID_0BDA&PID_57B5&REV_0012&MI_00
+        USB\VID_0BDA&PID_57B5&MI_00
+    Compatible IDs:
+        USB\Class_0e&SubClass_03&Prot_00
+        USB\Class_0e&SubClass_03
+        USB\Class_0e
+HDAUDIO\FUNC_01&VEN_14F1&DEV_510F&SUBSYS_1043170D&REV_1001\4&72C3E5E&0&0001
+    Name: Audio Device on High Definition Audio Bus
+    Hardware IDs:
+        HDAUDIO\FUNC_01&VEN_14F1&DEV_510F&SUBSYS_1043170D&REV_1001
+        HDAUDIO\FUNC_01&VEN_14F1&DEV_510F&SUBSYS_1043170D
+    Compatible IDs:
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_9C20&VEN_14F1&DEV_510F&REV_1001
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_14F1&DEV_510F&REV_1001
+        HDAUDIO\FUNC_01&VEN_14F1&DEV_510F&REV_1001
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_9C20&VEN_14F1&DEV_510F
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_14F1&DEV_510F
+        HDAUDIO\FUNC_01&VEN_14F1&DEV_510F
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_9C20&VEN_14F1
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_14F1
+        HDAUDIO\FUNC_01&VEN_14F1
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_9C20
+        HDAUDIO\FUNC_01&CTLR_VEN_8086
+        HDAUDIO\FUNC_01&GF&VEN_14F1&DEV_510F&SUBSYS_1043170D&REV_1001
+        HDAUDIO\FUNC_01
+PCI\VEN_8086&DEV_9C3A&SUBSYS_170D1043&REV_04\3&11583659&0&B0
+    Name: PCI     Hardware IDs:
+        PCI\VEN_8086&DEV_9C3A&SUBSYS_170D1043&REV_04
+        PCI\VEN_8086&DEV_9C3A&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C3A&CC_078000
+        PCI\VEN_8086&DEV_9C3A&CC_0780
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C3A&REV_04
+        PCI\VEN_8086&DEV_9C3A
+        PCI\VEN_8086&CC_078000
+        PCI\VEN_8086&CC_0780
+        PCI\VEN_8086
+        PCI\CC_078000
+        PCI\CC_0780
+SCSI\DISK&VEN_HGST&PROD_HTS545050A7E680\4&382C6A5&0&000000
+    Name: HGST HTS545050A7E680
+    Hardware IDs:
+        SCSI\DiskHGST_____HTS545050A7E680GG2O
+        SCSI\DiskHGST_____HTS545050A7E680
+        SCSI\DiskHGST____
+        SCSI\HGST_____HTS545050A7E680G
+        HGST_____HTS545050A7E680G
+        GenDisk
+    Compatible IDs:
+        SCSI\Disk
+        SCSI\RAW
+PCI\VEN_8086&DEV_9C10&SUBSYS_170D1043&REV_E4\3&11583659&0&E0
+    Name: PCI Express     Hardware IDs:
+        PCI\VEN_8086&DEV_9C10&SUBSYS_170D1043&REV_E4
+        PCI\VEN_8086&DEV_9C10&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C10&CC_060400
+        PCI\VEN_8086&DEV_9C10&CC_0604
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C10&REV_E4
+        PCI\VEN_8086&DEV_9C10
+        PCI\VEN_8086&CC_060400
+        PCI\VEN_8086&CC_0604
+        PCI\VEN_8086
+        PCI\CC_060400&DT_4
+        PCI\CC_060400
+        PCI\CC_0604&DT_4
+        PCI\CC_0604
+PCI\VEN_8086&DEV_9C18&SUBSYS_170D1043&REV_E4\3&11583659&0&E4
+    Name: PCI Express     Hardware IDs:
+        PCI\VEN_8086&DEV_9C18&SUBSYS_170D1043&REV_E4
+        PCI\VEN_8086&DEV_9C18&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C18&CC_060400
+        PCI\VEN_8086&DEV_9C18&CC_0604
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C18&REV_E4
+        PCI\VEN_8086&DEV_9C18
+        PCI\VEN_8086&CC_060400
+        PCI\VEN_8086&CC_0604
+        PCI\VEN_8086
+        PCI\CC_060400&DT_4
+        PCI\CC_060400
+        PCI\CC_0604&DT_4
+        PCI\CC_0604
+PCI\VEN_10EC&DEV_8168&SUBSYS_200F1043&REV_10\31697748684CE00000
+    Name: Realtek PCIe GBE Family Controller
+    Hardware IDs:
+        PCI\VEN_10EC&DEV_8168&SUBSYS_200F1043&REV_10
+        PCI\VEN_10EC&DEV_8168&SUBSYS_200F1043
+        PCI\VEN_10EC&DEV_8168&CC_020000
+        PCI\VEN_10EC&DEV_8168&CC_0200
+    Compatible IDs:
+        PCI\VEN_10EC&DEV_8168&REV_10
+        PCI\VEN_10EC&DEV_8168
+        PCI\VEN_10EC&CC_020000
+        PCI\VEN_10EC&CC_0200
+        PCI\VEN_10EC
+        PCI\CC_020000&DT_0
+        PCI\CC_020000
+        PCI\CC_0200&DT_0
+        PCI\CC_0200
+STORAGE\VOLUME\{50C516BB-7ECE-11E9-9C55-8D08A1036D27}#0000000000010000
+    Name:     Hardware IDs:
+        STORAGE\Volume
+USB\VID_090C&PID_1000\0340916040022467
+    Name: USB     Hardware IDs:
+        USB\VID_090C&PID_1000&REV_1100
+        USB\VID_090C&PID_1000
+    Compatible IDs:
+        USB\Class_08&SubClass_06&Prot_50
+        USB\Class_08&SubClass_06
+        USB\Class_08
+PCI\VEN_8086&DEV_0A04&SUBSYS_170D1043&REV_0B\3&11583659&0&00
+    Name: PCI     Hardware IDs:
+        PCI\VEN_8086&DEV_0A04&SUBSYS_170D1043&REV_0B
+        PCI\VEN_8086&DEV_0A04&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_0A04&CC_060000
+        PCI\VEN_8086&DEV_0A04&CC_0600
+    Compatible IDs:
+        PCI\VEN_8086&DEV_0A04&REV_0B
+        PCI\VEN_8086&DEV_0A04
+        PCI\VEN_8086&CC_060000
+        PCI\VEN_8086&CC_0600
+        PCI\VEN_8086
+        PCI\CC_060000
+        PCI\CC_0600
+ROOT\NDISVIRTUALBUS\0000
+    Name: NDIS     Hardware IDs:
+        ROOT\NdisVirtualBus
+USB\ROOT_HUB20\4&1B78ECBA&0
+    Name: USB Root Hub
+    Hardware IDs:
+        USB\ROOT_HUB20&VID8086&PID9C26&REV0004
+        USB\ROOT_HUB20&VID8086&PID9C26
+        USB\ROOT_HUB20
+PCI\VEN_8086&DEV_9C22&SUBSYS_170D1043&REV_04\3&11583659&0&FB
+    Name: SM     Hardware IDs:
+        PCI\VEN_8086&DEV_9C22&SUBSYS_170D1043&REV_04
+        PCI\VEN_8086&DEV_9C22&SUBSYS_170D1043
+        PCI\VEN_8086&DEV_9C22&CC_0C0500
+        PCI\VEN_8086&DEV_9C22&CC_0C05
+    Compatible IDs:
+        PCI\VEN_8086&DEV_9C22&REV_04
+        PCI\VEN_8086&DEV_9C22
+        PCI\VEN_8086&CC_0C0500
+        PCI\VEN_8086&CC_0C05
+        PCI\VEN_8086
+        PCI\CC_0C0500
+        PCI\CC_0C05
+USB\VID_8087&PID_8000\5&21D76B33&0&1
+    Name: Generic USB Hub
+    Hardware IDs:
+        USB\VID_8087&PID_8000&REV_0004
+        USB\VID_8087&PID_8000
+    Compatible IDs:
+        USB\Class_09&SubClass_00&Prot_00
+        USB\Class_09&SubClass_00
+        USB\Class_09
+{8E7BD593-6E6C-4C52-86A6-77175494DD8E}\MSVHDHBA\1&3030E83&0&01
+    Name: Microsoft VHD     Hardware IDs:
+        {8e7bd593-6e6c-4c52-86a6-77175494dd8e}\MsVhdHba
+    Compatible IDs:
+        {8e7bd593-6e6c-4c52-86a6-77175494dd8e}\MsCompatibleVhdHba
+ACPI\PNP0B00\4&250456FA&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0B00
+        ACPI\PNP0B00
+        *PNP0B00
+ACPI\PNP0000\4&250456FA&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0000
+        ACPI\PNP0000
+        *PNP0000
+ROOT\MSSMBIOS\0000
+    Name: Microsoft System Management BIOS Driver
+    Hardware IDs:
+        ROOT\mssmbios
+ACPI\INT340E\2&DABA3FF&0
+    Name:     Hardware IDs:
+        ACPI\VEN_INT&DEV_340E
+        ACPI\INT340E
+        *INT340E
+    Compatible IDs:
+        *PNP0C02
+HDAUDIO\FUNC_01&VEN_8086&DEV_2807&SUBSYS_80860101&REV_1000\4&3479C069&0&0001
+    Name: Audio Device on High Definition Audio Bus
+    Hardware IDs:
+        HDAUDIO\FUNC_01&VEN_8086&DEV_2807&SUBSYS_80860101&REV_1000
+        HDAUDIO\FUNC_01&VEN_8086&DEV_2807&SUBSYS_80860101
+    Compatible IDs:
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_0A0C&VEN_8086&DEV_2807&REV_1000
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086&DEV_2807&REV_1000
+        HDAUDIO\FUNC_01&VEN_8086&DEV_2807&REV_1000
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_0A0C&VEN_8086&DEV_2807
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086&DEV_2807
+        HDAUDIO\FUNC_01&VEN_8086&DEV_2807
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_0A0C&VEN_8086
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&VEN_8086
+        HDAUDIO\FUNC_01&VEN_8086
+        HDAUDIO\FUNC_01&CTLR_VEN_8086&CTLR_DEV_0A0C
+        HDAUDIO\FUNC_01&CTLR_VEN_8086
+        HDAUDIO\FUNC_01&GF&VEN_8086&DEV_2807&SUBSYS_80860101&REV_1000
+        HDAUDIO\FUNC_01
+ROOT\SYSTEM\0000
+    Name:     Hardware IDs:
+        ROOT\SWENUM
+USB\VID_0BDA&PID_C811\123456
+    Name: 802.11ac NIC
+    Hardware IDs:
+        USB\VID_0BDA&PID_C811&REV_0200
+        USB\VID_0BDA&PID_C811
+    Compatible IDs:
+        USB\Class_FF&SubClass_FF&Prot_FF
+        USB\Class_FF&SubClass_FF
+        USB\Class_FF
+ACPI\INT3F0D\4&250456FA&0
+    Name:     Hardware IDs:
+        ACPI\VEN_INT&DEV_3F0D
+        ACPI\INT3F0D
+        *INT3F0D
+    Compatible IDs:
+        *PNP0C02
+SCSI\DISK&VEN_MSFT&PROD_VIRTUAL_DISK\2&1F4ADFFE&0&000001
+    Name: Microsoft     Hardware IDs:
+        SCSI\DiskMsft____Virtual_Disk____1.0_
+        SCSI\DiskMsft____Virtual_Disk____
+        SCSI\DiskMsft____
+        SCSI\Msft____Virtual_Disk____1
+        Msft____Virtual_Disk____1
+        GenDisk
+    Compatible IDs:
+        SCSI\Disk
+        SCSI\RAW
+USBSTOR\DISK&VEN_SAMSUNG&PROD_FLASH_DRIVE&REV_1100\0340916040022467&0
+    Name: Samsung Flash Drive USB Device
+    Hardware IDs:
+        USBSTOR\DiskSamsung_Flash_Drive_____1100
+        USBSTOR\DiskSamsung_Flash_Drive_____
+        USBSTOR\DiskSamsung_
+        USBSTOR\Samsung_Flash_Drive_____1
+        Samsung_Flash_Drive_____1
+        USBSTOR\GenDisk
+        GenDisk
+    Compatible IDs:
+        USBSTOR\Disk
+        USBSTOR\RAW
+        GenDisk
+88 matching device(s) found.
+
+磁盘:0 
+  磁盘信息 磁盘号   大小(字节)         柱面数 磁头数 扇数 扇区 媒体     签名 总线
+              0   500107862016          60801    255   63  512   12 9B6FF210-2EC5-4BFB-9803-61F2728577EA 11 GPT F 
+  字符说明 激活 __本分区起始__ 分区 __本分区结束__ _______本分区______ ______本分区_______
+  激活为0x80    磁头_扇区_柱面 类型 磁头_扇区_柱面 _____起始扇区号____ _____扇区总数______
+  主分区1: 0x00 0xFE 0xFF 0xFF 0xEE 0xFE 0xFF 0xFF 0x01 0x00 0x00 0x00 0x2F 0x60 0x38 0x3A 
+  主分区2: 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 
+  主分区3: 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 
+  主分区4: 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 
+  标志   : 0x55 0xAA 
+  全部分区: 1   2   3 
+  分区  类型 激活(1) 起始(字节)     长度(字节)    隐藏扇区     结尾(字节) 物理# 盘符
+     1  C12A7328-F81F-11D2-BA4B-00A0C93EC93B GPT          20480      209715200 0000000000000000 D213F56A-F232-4C2F-B642-7D2BE119FAD1   1  C: 
+     2  7C3457EF-0000-11AA-AA11-00306543ECAC GPT      210763776   250015133696 0000000000000000 806F05F1-F946-4122-8BA3-44C628D407B3   2  E: 
+     3  7C3457EF-0000-11AA-AA11-00306543ECAC GPT   250225897472   249881944064 0000000000000000 B7B64673-EE49-4972-8F3B-3201D0DF1C46   3  F: 
+磁盘:1 
+  磁盘信息 磁盘号   大小(字节)         柱面数 磁头数 扇数 扇区 媒体     签名 总线
+              1    32078036992           3899    255   63  512   11 468BF89B  7 MBR R 
+  字符说明 激活 __本分区起始__ 分区 __本分区结束__ _______本分区______ ______本分区_______
+  激活为0x80    磁头_扇区_柱面 类型 磁头_扇区_柱面 _____起始扇区号____ _____扇区总数______
+  主分区1: 0x80 0x01 0x1B 0x67 0x07 0xFE 0xFF 0xFF 0x00 0x40 0x19 0x00 0x00 0xB0 0x94 0x03 
+  主分区2: 0x00 0xFE 0xFF 0xFF 0x1B 0xFE 0xFF 0xFF 0x00 0xF0 0xAD 0x03 0xFF 0xFF 0x0D 0x00 
+  主分区3: 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 
+  主分区4: 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 
+  标志   : 0x55 0xAA 
+  全部分区: 1   =2  -3  -4 
+  分区  类型 激活(1) 起始(字节)     长度(字节)    隐藏扇区     结尾(字节) 物理# 盘符
+     1  0x07   1      847249408    30758928384     1654784    31606177792    1  U: 
+     0  0x1B   0    31606177792      469761536    61730816    32075939328    2   
+    -3  0x00   0              0              0           0              0    3   
+    -4  0x00   0              0              0           0              0    4   
+磁盘:2 
+  磁盘信息 磁盘号   大小(字节)         柱面数 磁头数 扇数 扇区 媒体     签名 总线
+              2      330301440             40    255   63  512   12 6ECC3E4E 15 MBR F 
+  字符说明 激活 __本分区起始__ 分区 __本分区结束__ _______本分区______ ______本分区_______
+  激活为0x80    磁头_扇区_柱面 类型 磁头_扇区_柱面 _____起始扇区号____ _____扇区总数______
+  主分区1: 0x00 0x02 0x03 0x00 0x07 0xFE 0x3F 0x27 0x80 0x00 0x00 0x00 0x80 0xCF 0x09 0x00 
+  主分区2: 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 
+  主分区3: 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 
+  主分区4: 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 
+  标志   : 0x55 0xAA 
+  全部分区: 1   -2  -3  -4 
+  分区  类型 激活(1) 起始(字节)     长度(字节)    隐藏扇区     结尾(字节) 物理# 盘符
+     1  0x07   0          65536      329187328         128      329252864    1  Y: 
+    -2  0x00   0              0              0           0              0    2   
+    -3  0x00   0              0              0           0              0    3   
+    -4  0x00   0              0              0           0              0    4   
+
